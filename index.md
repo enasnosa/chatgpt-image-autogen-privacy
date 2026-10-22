@@ -2,7 +2,8 @@
 
 **Effective date:** October 22, 2026
 
-This Privacy Policy explains how **Little Moji** (“we,” “us,” or “our”) handles information in the **ChatGPT Image AutoGen** browser extension (the “Extension”). 
+This Privacy Policy explains how **Little Moji** (“we,” “us,” or “our”) handles information in the **ChatGPT Image AutoGen** browser extension (the “Extension”).
+
 ## 1. What the Extension does
 
 The Extension helps users queue image prompts in ChatGPT, submit those prompts through the user’s ChatGPT tab, detect completed image results, and save generated images through the browser’s download system.
@@ -12,10 +13,15 @@ The Extension helps users queue image prompts in ChatGPT, submit those prompts t
 Depending on the features a user chooses, the Extension may handle:
 
 - Prompts, notes, queue items, settings, and status information entered by the user.
+
 - Images selected by the user for image editing or image-reference workflows.
+
 - Generated image URLs and download filenames.
+
 - Extension state needed to resume or recover an in-progress queue.
+
 - A user’s email address when the user voluntarily uses Premium login, account verification, or purchase-related features.
+
 - Authentication tokens and subscription or usage-status information returned by our account service after a user signs in.
 
 ## 3. How information is used
@@ -23,11 +29,17 @@ Depending on the features a user chooses, the Extension may handle:
 The Extension uses this information to:
 
 - Submit the user’s queued prompts to ChatGPT.
+
 - Match a completed ChatGPT response to the corresponding queued prompt.
+
 - Upload user-selected source images to the ChatGPT composer when requested.
+
 - Download or save generated images at the user’s direction.
+
 - Store and restore the queue, settings, and progress after navigation or an extension restart.
+
 - Check usage limits and, where applicable, verify Premium subscription status.
+
 - Process account login, subscription, and purchase-resumption requests when the user chooses those features.
 
 ## 4. Where information is stored or sent
@@ -52,7 +64,7 @@ The service may receive the email address and authentication or account informat
 
 ### Payments
 
-If the user chooses a Premium purchase, the Extension opens the configured checkout provider. Payment-card details are entered and processed by the checkout provider, not by the Extension. The Extension may receive purchase or account confirmation information needed to associate the purchase with the user’s account.
+If the user chooses Premium access, the Extension opens the configured Fourthwall checkout page. Fourthwall processes payment-card details; the Extension does not collect or store payment-card numbers, security codes, or other full card credentials. The Extension may receive purchase, account, and confirmation information needed to associate the purchase with the user’s account and grant the purchased 30-day access period.
 
 ### Downloads
 
@@ -86,5 +98,5 @@ We may update this Privacy Policy when the Extension’s data practices or legal
 
 For privacy questions or data-deletion requests, contact:
 
-**Little Moji**  
-**Email:** mojilittle4@gmail.com  
+**Little Moji**
+**Email:** [mojilittle4@gmail.com](mailto:mojilittle4@gmail.com)
