@@ -2,7 +2,7 @@ Privacy Policy — ChatGPT Image AutoGen
 
 Effective date: October 22, 2026
 
-This Privacy Policy explains how Little Moji handles information in the ChatGPT Image AutoGen browser extension.
+This Privacy Policy explains how we handle information in the ChatGPT Image AutoGen browser extension.
 
 1. What the Extension does
 
